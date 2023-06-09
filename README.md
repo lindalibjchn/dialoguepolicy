@@ -2,7 +2,7 @@
  
  This is a appendix file of the paper: "Dialogue Policies for Confusion Mitigation in Situated HRI" in Semdial 2022
  
- Table 1: General dialogue policy for mitigating productive confusion 
+ Table 1: General dialogue policy for mitigating confusion 
  
  Table 2: Dialogue policy for mitigating productive confusion 
  
